@@ -7,8 +7,8 @@ I enjoy working at the intersection of electronics, embedded systems, automation
 
 📍 Burlington, Ontario, Canada
 📧 deni182001@gmail.com
-💼 LinkedIn(https://www.linkedin.com/in/denilsonhernandez/)
-💻 GitHub
+💼 [LinkedIn](https://www.linkedin.com/in/denilsonhernandez/)
+💻 [GitHub](https://github.com/denilsonhernandez)
 
 👨‍💻 About Me
 🎓 Bachelor's Degree in Electronic and Automation Engineering from Universidad Autónoma de Nuevo León (UANL)
@@ -37,7 +37,7 @@ Embedded digital clock developed using an STM32 microcontroller featuring extern
 Technologies:
 STM32 Embedded C ADC RTC GPIO Interrupts Digital Electronics
 
-🔗 View Repository →
+🔗 [View Repository →](https://github.com/denilsonhernandez/stm32-programmable-digital-clock)
 
 🏭 Automated Color Sorting Conveyor
 
@@ -48,7 +48,7 @@ The project integrates color sensing, ultrasonic sensors, servo motors, stepper 
 Technologies:
 Arduino C++ Sensors Servo Motors Stepper Motors Automation
 
-🔗 View Repository →
+🔗 [View Repository →](https://github.com/denilsonhernandez/automated-color-sorting-conveyor)
 
 🦾 Robotic Pick-and-Place Arm
 
@@ -57,7 +57,7 @@ Arduino-controlled robotic manipulator designed to perform an automated pick, tr
 Technologies:
 Arduino C++ Robotics Servo Control Stepper Motors Motion Control
 
-🔗 View Repository →
+🔗 [View Repository →](https://github.com/denilsonhernandez/robotic-pick-and-place-arm)
 
 🔢 STM32 Keypad & Display Interface
 
@@ -66,7 +66,7 @@ STM32-based embedded interface that decodes input from a 4x4 matrix keypad using
 Technologies:
 STM32 Embedded C GPIO External Interrupts Matrix Keypad Display Multiplexing
 
-🔗 View Repository →
+🔗 [View Repository →](https://github.com/denilsonhernandez/stm32-keypad-display-interface)
 
 💼 Professional Experience
 Remote Support Engineer — AMI Automation
@@ -113,6 +113,6 @@ Hardware/Software Integration
 
 I'm interested in connecting with engineers and teams working on electronics, automation, embedded systems, and hardware development.
 
-💼 LinkedIn
-💻 GitHub
-📧 Email
+💼 [LinkedIn](https://www.linkedin.com/in/denilsonhernandez/)  
+💻 [GitHub](https://github.com/denilsonhernandez)  
+📧 [Email](mailto:deni182001@gmail.com)
