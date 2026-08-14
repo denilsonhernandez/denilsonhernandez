@@ -30,6 +30,7 @@ I enjoy working at the intersection of electronics, embedded systems, automation
 - AutoCAD, Oscilloscope, Multimeter, Power BI, Microsoft Office
 
 🚀 Featured Projects
+
 ⏱ STM32 Programmable Digital Clock
 
 Embedded digital clock developed using an STM32 microcontroller featuring external interrupts, ADC input, RTC timekeeping, GPIO control, and multiplexed 7-segment displays.
