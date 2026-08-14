@@ -70,6 +70,7 @@ STM32 Embedded C GPIO External Interrupts Matrix Keypad Display Multiplexing
 🔗 [View Repository →](https://github.com/denilsonhernandez/stm32-keypad-display-interface)
 
 💼 Professional Experience
+
 Remote Support Engineer — AMI Automation
 
 Nov 2024 – Jun 2026
@@ -97,10 +98,12 @@ Bachelor's Degree in Electronic and Automation Engineering
 Universidad Autónoma de Nuevo León — 2024
 
 📚 Professional Development
+
 Industrial Control, Automation and Networking Program — Risoul RS
 Industrial Automation – Allen-Bradley PLC — Ingeniería y Automatización Flores
 
 🎯 Areas of Interest
+
 Embedded Systems
 Electronics Design
 Hardware Development
