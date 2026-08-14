@@ -7,7 +7,7 @@ I enjoy working at the intersection of electronics, embedded systems, automation
 
 📍 Burlington, Ontario, Canada
 📧 deni182001@gmail.com
-💼 LinkedIn
+💼 LinkedIn(https://www.linkedin.com/in/denilsonhernandez/)
 💻 GitHub
 
 👨‍💻 About Me
